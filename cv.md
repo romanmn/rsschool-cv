@@ -25,14 +25,21 @@
 ###### Preparing for international Exams (SAT, GMAT,IGCSE, EDEXCEL, etc.)
 ------------
 ## JS Code Example (Problem: "Digits explosion", codewars)
-> function explode(s) {
->   const arr = s.toString().split('');
->	let res = '';
->  for (let i = 0; i < arr.length; i++) {
->  	res += arr[i].repeat(arr[i]);
+> function explode(s) {  
+
+>   const arr = s.toString().split('');  
+
+>	let res = '';  
+
+>  for (let i = 0; i < arr.length; i++) {  
+
+>  	res += arr[i].repeat(arr[i]);  
+
 >    
->  }
->  return res;
+>  }  
+
+>  return res;  
+
 >  
 >}
 ## Languages:
