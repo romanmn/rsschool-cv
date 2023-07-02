@@ -17,9 +17,9 @@
 ###### - Git, gitHub (basic)
 ###### - VSCode (basic)
 ###### - English (B2 Level)
-[EF SET Certificate] (![EF SET Certificate](<EF SET.png>))
+![EF SET Certificate](<EF SET.png>)
 ###### Certified Primary Teacher
-[Certificate for Primary teachers] (![Certificate for Primary teachers](<Certificate for Primary teachers.png>))
+![Certificate for Primary teachers](<Certificate for Primary teachers.png>)
 ###### Preparing for international Exams (SAT, GMAT,IGCSE, EDEXCEL, etc.)
 ------------
 ## Languages:
